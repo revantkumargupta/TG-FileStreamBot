@@ -75,6 +75,11 @@ Press the below button to fast deploy to Heroku
 [Click Here](https://devcenter.heroku.com/articles/config-vars#using-the-heroku-dashboard) to know how to add / edit [environment variables](#required-vars) in Heroku.
 
 <hr>
+## Deploy to Heroku
+
+Click the button below to deploy this bot to Heroku:
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/revantkumargupta/TG-FileStreamBot)
 
 ### Download from releases
 - Head over to [releases](https://github.com/EverythingSuckz/TG-FileStreamBot/releases) tab, from the *pre release* section, download the one for your platform and architecture.
